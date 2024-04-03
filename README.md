@@ -6,8 +6,7 @@
 |   |-- hebb-rule
 |   |   |-- bit_numbers.py
 |   |   |-- functions.py
-|   |   |-- hebb.py
-|   |   `-- number_lean.py
+|   |   `-- hebb.py
 |   `-- perceptron
 |       |-- functions.py
 |       `-- single_perceptron.py
