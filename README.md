@@ -3,9 +3,16 @@
 ### Tree
 ```
 |-- Neural-Network
+|   |-- hebb-rule
+|   |   |-- bit_numbers.py
+|   |   |-- functions.py
+|   |   |-- hebb.py
+|   |   `-- number_lean.py
 |   `-- perceptron
 |       |-- functions.py
 |       `-- single_perceptron.py
+`-- README.md
+
 ```
 
 ### Requirements
